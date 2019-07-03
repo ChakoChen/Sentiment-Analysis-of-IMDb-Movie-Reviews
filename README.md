@@ -1,4 +1,4 @@
-## Sentiment-Analysis-of-IMDb-Movie-Reviews
+## Sentiment Analysis of IMDb Movie Reviews
 
 This project uses a dataset of 50,000 movie reviews taken from IMDb to build a sentiment classification model. 
 
